@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		8ECDE4A91AB964C9006EBCAD /* NESCustomHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ECDE4A81AB964C9006EBCAD /* NESCustomHandler.m */; };
-		8EE087621ABBFBA000A91FF7 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8EE087611ABBFBA000A91FF7 /* README.md */; };
 		8EF78E421AB169E6006E3347 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EF78E411AB169E6006E3347 /* main.m */; };
 		8EF78E451AB169E6006E3347 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EF78E441AB169E6006E3347 /* AppDelegate.m */; };
 		8EF78E471AB169E6006E3347 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8EF78E461AB169E6006E3347 /* Images.xcassets */; };
@@ -245,7 +244,6 @@
 				8EF78E651AB16EA3006E3347 /* NESMainViewController.m in Sources */,
 				8EF78E451AB169E6006E3347 /* AppDelegate.m in Sources */,
 				8EF78E621AB16B4C006E3347 /* NESDynamicWrapper.m in Sources */,
-				8EE087621ABBFBA000A91FF7 /* README.md in Sources */,
 				8EF78E421AB169E6006E3347 /* main.m in Sources */,
 				8ECDE4A91AB964C9006EBCAD /* NESCustomHandler.m in Sources */,
 				8EF78E681AB17265006E3347 /* NESTestView.m in Sources */,
